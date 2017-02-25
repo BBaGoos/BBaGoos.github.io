@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: 빠꾸스 아무거나 Blog
 email: phg119@naver.com
 description: "디스크립션 여긴 어디니." 
-baseurl: "여긴 베이스 주소" # the subpath of your site, e.g. /blog
+baseurl: "/BBaGoos.github.com" 
 url: "여긴 호스트" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @o958
 github_username:  BBaGoos
