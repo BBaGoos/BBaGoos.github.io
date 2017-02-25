@@ -2,7 +2,7 @@
 title: BBacGoos
 tagline: 'A Jekyll theme based on BBacGoos'
 description: 'A Jekyll theme adapted'
-baseurl: "/"
+baseurl: ""
 url: 'https://bbagoos.github.io'
 logo: '/public/logo.png'
 
@@ -38,7 +38,7 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
+    - ''
   Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
