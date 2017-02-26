@@ -17,7 +17,7 @@ jekyll을 쓰기위해선 ruby,python 등 스크립트언어가 깔려있어야�
   * Ruby 설치시 아래 처럼 체크를 해줘야 cmd창 어디서든 ruby를 실행 할 수 있다.
   
   <div align="center">
-  <img src="/public/img/ruby_install.jpg" />
+  <img src="/public/img/ruby_install.JPG" />
   </div>
  
   * DevKit은 설치 후 CMD창에서 초기화 및 ruby와 binding을 해주자.
