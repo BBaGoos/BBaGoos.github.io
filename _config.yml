@@ -3,7 +3,7 @@ title: Why So Serious??!
 tagline: 'A Jekyll theme based on BBacGoos'
 description: 'A Jekyll theme adapted'
 baseurl: ""
-url: 'https://nine21.github.io'
+url: 'https://nine.github.io'
 logo: '/public/logo.png'
 
 # Site configurations
@@ -46,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://nine21.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
