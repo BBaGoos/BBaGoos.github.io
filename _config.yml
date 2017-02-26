@@ -1,6 +1,6 @@
 # Site Info
 title: Why So Serious??!
-tagline: 'A Jekyll theme based on BBacGoos'
+tagline: 'Why So Serious??! Just Dooooooooooo It!!!'
 description: 'A Jekyll theme adapted'
 baseurl: ""
 url: 'https://gu-nine.github.io'
@@ -25,10 +25,10 @@ version: 1.0.0
 # About/contact
 author:
   name: HyoungGu_Park
-  description: A passionate <strong>developer</strong>, learning to be a giant.
+  description: A passionate <strong>Developer</strong>, learning to be a giant.
   #gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-      linkedin:  https://www.linkedin.com/in/형구-박-6b91996a/
+      linkedin:"https://www.linkedin.com/in/형구-박-6b91996a/"
     #github:    https://github.com/codinfox
     # facebook:  <hide>
     #twitter:   https://twitter.com/o958
@@ -46,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://gu-nine.github.io/'
+    - 'http://gu-nine.github.com/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
