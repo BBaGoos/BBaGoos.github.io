@@ -40,10 +40,12 @@ author:
 nav:
   Home:           
     - ''
-  Blog:           
+  Post:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Categories: 
+    - '/blog/categories/'
+  Tags: 
+    - '/blog/tags/' 
   About:          
     - '/about/'
   Github Project: 
