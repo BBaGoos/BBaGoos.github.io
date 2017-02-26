@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 윈도우에서 jekyll로 GitHub Blog 만들기 (1)
+title: 윈도우에서 jekyll로 GitHub Blog 만들기 (2)
 categories: [blog, jekyll]
 tags: [jekyll,GitHub Page]
 ---
