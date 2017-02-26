@@ -1,4 +1,4 @@
-# Site Info
+#Site Info
 title: Why So Serious??!
 tagline: 'Why So Serious??! Just Dooooooooooo It!!!'
 description: 'A Jekyll theme adapted'
@@ -28,9 +28,9 @@ author:
   description: A passionate <strong>Developer</strong>, learning to be a giant.
   gravatar: 594f6dfdc040d383bed869883a6ad6b0 # md5 hash of your email address
   contact:
-      linkedin: https://www.linkedin.com/in/형구-박-6b91996a/
-      github:    https://github.com/gu-nine
-      twitter:   https://twitter.com/o958
+    linkedin: "https://www.linkedin.com/in/형구-박-6b91996a/"
+    github: "https://github.com/gu-nine"
+    twitter: "https://twitter.com/o958"
     # facebook:  <hide>
     #twitter:   https://twitter.com/o958
     #weibo:     http://weibo.com/41173780
