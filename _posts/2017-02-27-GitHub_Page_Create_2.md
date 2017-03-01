@@ -42,7 +42,7 @@ tags: [jekyll,GitHub Page]
   * `git config --global user.name "owner명"`
   * `git config --global user.email "github 가입 Email"`
   * `git init`
-  * `git remote add https://github.com/owner명/Owner명.github.io.git`
+  * `git remote add origin https://github.com/owner명/Owner명.github.io.git`
   * `git add .`
   * `git commit -m "커밋 로그 커맨트"`
   * `git push origion master`
