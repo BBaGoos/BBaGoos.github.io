@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jekyll로 GitHub Blog 만들기 for windows (3)
-categories: [blog, jekyll]
-tags: [jekyll,GitHub Page]
+categories: [jekyll]
+tags: [jekyll,Github Blog,GitHub Page]
 ---
 
  원래는 theme 입히는걸 포스팅하려했으나 아직 좀더 공부하고 올려봐야겠다.

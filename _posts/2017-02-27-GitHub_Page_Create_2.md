@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 윈도우에서 jekyll로 GitHub Blog 만들기 (2)
-categories: [blog, jekyll]
-tags: [jekyll,GitHub Page]
+title: jekyll로 GitHub Blog 만들기 for windows (2)
+categories: [jekyll]
+tags: [jekyll,Github Blog,GitHub Page]
 ---
 
 뭐지... 날라갔네... OTL

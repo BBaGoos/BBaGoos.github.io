@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 윈도우에서 jekyll로 GitHub Blog 만들기 (1)
-categories: [blog, jekyll]
-tags: [jekyll,GitHub Page]
+title: jekyll로 GitHub Blog 만들기 for windows (1)
+categories: [jekyll]
+tags: [jekyll,Github Blog,GitHub Page]
 ---
 
 MAC에선 크게 문제가 없었는데 역시나 Windows에선 환경 셋팅 및 설치가 복잡하다..
